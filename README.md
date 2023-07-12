@@ -1,4 +1,4 @@
-<img src='https://87252.stu.sd-lab.nl/GitHub/GithubBanner.png'>
+<img src='https://87252.stu.sd-lab.nl/GitHub/GithubBanner.png' draggable='false'>
 <h1>Hey folks 👋</h1>
 <p>My name is Jirzy Kerklaan and i am a Software Developer student at the Grafisch Lyceum Rotterdam. I'm from the Netherlands, living in Rotterdam.</p>
 <h2>Latest projects</h2>
