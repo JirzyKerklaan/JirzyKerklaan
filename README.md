@@ -1,4 +1,3 @@
-<img src='https://87252.stu.sd-lab.nl/GitHub/GithubBanner.png' draggable='false'>
 <h1>Hey folks 👋</h1>
 <p>My name is Jirzy Kerklaan and i am a Software Developer student at the Grafisch Lyceum Rotterdam. I'm from the Netherlands, living near Rotterdam.</p>
 <h2>Latest projects</h2>
@@ -18,4 +17,4 @@
 <h2>Connect with me!</h2>
 
 [![](https://img.shields.io/badge/-@JirzyKerklaan-%23181717?style=flat-square&logo=github)](https://github.com/JirzyKerklaan)
-[![](https://img.shields.io/badge/-Jirzy%20Kerklaan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jirzy-kerklaan/)](www.linkedin.com/in/jirzy-kerklaan/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jirzy-kerklaan/)
