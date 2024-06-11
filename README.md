@@ -17,4 +17,4 @@
 <h2>Connect with me!</h2>
 
 [![](https://img.shields.io/badge/-@JirzyKerklaan-%23181717?style=flat-square&logo=github)](https://github.com/JirzyKerklaan)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jirzy-kerklaan/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jirzy-kerklaan/)
