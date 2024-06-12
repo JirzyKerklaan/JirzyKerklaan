@@ -1,5 +1,5 @@
 <h1>Hey folks 👋</h1>
-<p>My name is Jirzy Kerklaan and i am a Software Developer student at the Grafisch Lyceum Rotterdam. I'm from the Netherlands, living near Rotterdam.</p>
+<p>My name is Jirzy Kerklaan and i am a young and very motivated Software Developer. I'm from the Netherlands, based near Rotterdam.</p>
 <br>
 <h2>Technologies & Tools</h2>
 <p>
