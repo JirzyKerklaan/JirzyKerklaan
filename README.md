@@ -1,19 +1,37 @@
-<h1>Hey folks 👋</h1>
-<p>My name is Jirzy Kerklaan and i am a young and very motivated Software Developer. I'm from the Netherlands, based near Rotterdam.</p>
-<br>
-<h2>Technologies & Tools</h2>
-<p>
-  <ul>
-    <li>Javascript</li>
-    <li>PHP</li>
-    <li>React</li>
-    <li>Laravel</li>
-    <li>Vue</li>
-  </ul>
-</p>
-<h2>Connect with me!</h2>
+<h1>Hey, i'm Jirzy Kerklaan👋</h1>
 
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JirzyKerklaan)
+### About me
+
+- 💼 Student at Hogeschool Rotterdam, Netherlands
+- 📈 Built Skiter, Fitness-app and more
+
+- ❤️ I love writing Javascript code and building fun projects
+- 💬 Ask me about anything [here](mailto:jirzykerklaan@gmail.com "Stupid questions don't exist").
+
+<br>
+
+#### Languages, Frameworks & Tools
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="Vue3" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
+<code><img height="20" alt="Laravel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="SCSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" alt="SCSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+
+<br>
+
+### My github stats 📈
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JirzyKerklaan&theme=monokai-metallian)](https://git.io/streak-stats)
+
+### Im currently working on 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JirzyKerklaan&repo=Fitness-app)](https://github.com/JirzyKerklaan/Fitness-app)
+
+### Let's connect!
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jirzy-kerklaan/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jirzykerklaan@gmail.com)
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jirzykerklaan.netlify.app/)
