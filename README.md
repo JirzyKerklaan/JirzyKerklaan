@@ -24,7 +24,7 @@
 
 ### Im currently working on 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JirzyKerklaan&repo=Fitness-app)](https://github.com/JirzyKerklaan/Fitness-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JirzyKerklaan&repo=template)](https://github.com/JirzyKerklaan/Fitness-app)
 
 ### Let's connect!
 
