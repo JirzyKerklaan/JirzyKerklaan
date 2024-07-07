@@ -1,4 +1,4 @@
-<h1>Hey, i'm Jirzy Kerklaan👋</h1>
+# Hey, i'm Jirzy Kerklaan👋
 
 ### About me
 
