@@ -1,4 +1,5 @@
 # Hey, i'm Jirzy Kerklaan👋
+![](https://komarev.com/ghpvc/?username=JirzyKerklaan&color=green)
 
 ### About me
 
@@ -8,7 +9,7 @@
 - ❤️ I love writing Javascript code and building fun projects
 - 💬 Ask me about anything [here](mailto:jirzykerklaan@gmail.com "Stupid questions don't exist").
 
-#### Languages, Frameworks & Tools
+### Languages, Frameworks & Tools
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
