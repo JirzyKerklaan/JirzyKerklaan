@@ -1,5 +1,5 @@
 # Hey, i'm Jirzy Kerklaan👋
-![](https://komarev.com/ghpvc/?username=JirzyKerklaan&color=green)
+![](https://komarev.com/ghpvc/?username=JirzyKerklaan&color=grey)
 
 ### About me
 
@@ -7,7 +7,7 @@
 - 📈 Built Skiter, Fitness-app and more
 
 - ❤️ I love writing Javascript code and building fun projects
-- 💬 Ask me about anything [here](mailto:jirzykerklaan@gmail.com "Stupid questions don't exist").
+- 💬 Ask me about anything [here](mailto:jirzykerklaan@gmail.com "Stupid questions don't exist")
 
 ### Languages, Frameworks & Tools
 
