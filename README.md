@@ -3,7 +3,7 @@
 
 ### About me
 
-- 💼 Student at Hogeschool Rotterdam, Netherlands
+- 💼 Awaiting education at Hogeschool Rotterdam, Netherlands
 - 📈 Built Skiter, Fitness-app and more
 
 - ❤️ I love writing Javascript code and building fun projects
