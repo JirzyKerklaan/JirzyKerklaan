@@ -4,7 +4,7 @@
 ### About me
 
 - 💼 Awaiting education at Hogeschool Rotterdam, Netherlands
-- 📈 Built Skiter, Fitness-app and more
+- 📈 Built Template, Fitness-app and more
 
 - ❤️ I love writing Javascript code and building fun projects
 - 💬 Ask me about anything [here](mailto:jirzykerklaan@gmail.com "Stupid questions don't exist")
