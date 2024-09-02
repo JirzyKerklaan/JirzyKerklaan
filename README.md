@@ -3,7 +3,7 @@
 
 ### About me
 
-- 💼 Awaiting education at Hogeschool Rotterdam, Netherlands
+- 💼 Junior Software Developer @ Esens Design
 - 📈 Built Template, Fitness-app and more
 
 - ❤️ I love writing Javascript code and building fun projects
