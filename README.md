@@ -21,6 +21,9 @@
 <code><img height="20" alt="Tailwind" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JirzyKerklaan&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ### My github stats 📈
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JirzyKerklaan&theme=monokai-metallian)](https://git.io/streak-stats)
