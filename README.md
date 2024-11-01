@@ -6,7 +6,7 @@
 - 💼 Junior Software Developer @ Esens Design
 - 📈 Built Template, Fitness-app and more
 
-- ❤️ I love writing Javascript code and building fun projects
+- ❤️ I love writing code and building fun projects
 - 💬 Ask me about anything [here](mailto:jirzykerklaan@gmail.com "Stupid questions don't exist")
 
 ### Languages, Frameworks & Tools
