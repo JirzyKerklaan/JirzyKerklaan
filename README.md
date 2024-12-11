@@ -3,7 +3,7 @@
 
 ### About me
 
-- 💼 Junior Software Developer @ Esens Design
+- 💼 Junior Full Stack Developer @ Esens Design
 - 📈 Built Template, Fitness-app and more
 
 - ❤️ I love writing code and building fun projects
