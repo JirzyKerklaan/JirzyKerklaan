@@ -24,10 +24,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JirzyKerklaan&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-### My github stats 📈
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JirzyKerklaan&theme=monokai-metallian)](https://git.io/streak-stats)
-
 ### Let's connect!
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jirzy-kerklaan/)
