@@ -4,7 +4,7 @@
 ### About me
 
 - 💼 Junior Full Stack Developer @ Esens Design
-- 📈 Built Template, Fitness-app and more
+- 📈 Built Portfolio, Template and more
 
 - ❤️ I love writing code and building fun projects
 - 💬 Ask me about anything [here](mailto:jirzykerklaan@gmail.com "Stupid questions don't exist")
