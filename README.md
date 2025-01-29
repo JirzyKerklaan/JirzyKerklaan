@@ -4,9 +4,9 @@
 ### About me
 
 - 💼 Junior Full Stack Developer @ Esens Design
-- 📈 Built Portfolio, Template and more
+- 📈 Built Portfolio, Template, Skiter and more
 
-- ❤️ I love writing code and building fun projects
+- ❤️ I love writing code and building innovative online solutions
 - 💬 Ask me about anything [here](mailto:jirzykerklaan@gmail.com "Stupid questions don't exist")
 
 ### Languages, Frameworks & Tools
