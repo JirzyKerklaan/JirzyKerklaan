@@ -1,15 +1,20 @@
 # Hey, i'm Jirzy Kerklaan👋
 ![](https://komarev.com/ghpvc/?username=JirzyKerklaan&color=grey)
 
-### About me
+🚀 Junior Full Stack Developer @ Esens Design
 
-- 💼 Junior Full Stack Developer @ Esens Design
-- 📈 Built Portfolio, Template, Skiter and more
+💡 Passionate about crafting professional, innovative, and complex online solutions
 
-- ❤️ I love writing code and building innovative online solutions
+🎯 Focused on modern web development and scalable applications
+<br>
+
+### 🚀 About me
+- 💻 I love writing code and building innovative web solutions
+- 🛠️ Experienced with PHP, JavaScript and SCSS
+- 🔍 Currently exploring React, Statamic, and API development
 - 💬 Ask me about anything [here](mailto:jirzykerklaan@gmail.com "Stupid questions don't exist")
 
-### Languages, Frameworks & Tools
+### 🛠️ Tech Stack & Tools
 
 <code><img height="20" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
