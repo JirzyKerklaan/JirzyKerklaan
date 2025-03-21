@@ -13,6 +13,7 @@
 - 🛠️ Experienced with PHP, JavaScript and SCSS
 - 🔍 Currently exploring React, Statamic, and API development
 - 💬 Ask me about anything [here](mailto:jirzykerklaan@gmail.com "Stupid questions don't exist")
+- 🌐 You can view some projects on my [website](https://www.jirzykerklaan.nl)
 
 ### 🛠️ Tech Stack & Tools
 
