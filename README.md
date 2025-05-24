@@ -3,7 +3,7 @@
 
 🚀 Junior Full Stack Developer @ Esens Design
 
-💡 Passionate about crafting professional, innovative, and complex online solutions
+💡 Passionate about crafting professional, innovative, and complex solutions
 
 🎯 Focused on modern web development and scalable applications
 <br>
