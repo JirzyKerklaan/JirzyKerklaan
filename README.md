@@ -11,7 +11,7 @@
 ### 🚀 About me
 - 💻 I love writing code and building innovative web solutions
 - 🛠️ Experienced with PHP, JavaScript and SCSS
-- 🔍 Currently exploring Rust
+- 🔍 Currently exploring Typescript w/ EJS & express
 - 💬 Ask me about anything [here](mailto:jirzykerklaan@gmail.com "Stupid questions don't exist")
 - 🌐 You can view some projects on my [website](https://www.jirzykerklaan.nl)
 
