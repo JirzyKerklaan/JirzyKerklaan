@@ -1,7 +1,7 @@
 # Hey, i'm Jirzy Kerklaan👋
 ![](https://komarev.com/ghpvc/?username=JirzyKerklaan&color=grey)
 
-🚀 Junior Full Stack Developer @ Esens Design
+🚀 Junior Full Stack Developer @ Goedemiddag!
 
 💡 Passionate about crafting professional, innovative, and complex solutions
 
