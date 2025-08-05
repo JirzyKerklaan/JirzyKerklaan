@@ -11,9 +11,9 @@
 ### 🚀 About me
 - 💻 I love writing code and building innovative web solutions
 - 🛠️ Experienced with PHP, JavaScript and SCSS
-- 🔍 Currently exploring Typescript w/ EJS & express
-- 💬 Ask me about anything [here](mailto:jirzykerklaan@gmail.com "Stupid questions don't exist")
-- 🌐 You can view some projects on my [website](https://www.jirzykerklaan.nl)
+- 🔍 Currently exploring Typescript w/ EJS & express ([View TEP](https://github.com/JirzyKerklaan/tep-cms))
+- 💬 Ask me about anything [here](mailto:jirzykerklaan@gmail.com)
+- 🌐 You can view some projects on my [website](https://www.jirzykerklaan.nl "The Easy Publisher CMS")
 
 ### 🛠️ Tech Stack & Tools
 
