@@ -9,7 +9,7 @@
 <br>
 
 ### 🚀 About me
-- 💻 I love writing code and building innovative web solutions
+- 💻 I love writing code and building innovative solutions
 - 🛠️ Experienced with PHP, JavaScript and SCSS
 - 🔍 Currently exploring Typescript w/ EJS & express ([View TEP](https://github.com/JirzyKerklaan/tep-cms))
 - 💬 Ask me about anything [here](mailto:jirzykerklaan@gmail.com)
